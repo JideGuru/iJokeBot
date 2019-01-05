@@ -3,7 +3,7 @@ import datetime
 
 from bothandler import BotHandler
 
-token = "797527677:AAEbqc5eLLqvtG9_JUEEXrp1sXXtOE2TeFU"
+token = ""
 
 jokes_bot = BotHandler(token)
 greetings = ('hello', 'hi', 'greetings', 'sup')
