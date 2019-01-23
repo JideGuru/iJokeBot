@@ -12,7 +12,7 @@ A Telegram Bot that send Jokes to people or group.
 
 Create a telegram bot and replace its token with the token in the code.
 
-```token = "7********************************"```
+```token = "*********************************"```
 
 # Author(s)
 **Olusegun Festus Babajide**
